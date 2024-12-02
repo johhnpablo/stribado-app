@@ -4,12 +4,12 @@
       <div class="flex items-center justify-center w-full mb-4">
         <h2 class="font-sans text-2xl font-medium">Stribado Wallet 💰</h2>
       </div>
-      <form-login />
+      <form-register />
     </div>
   </div>
 </template>
 
 <script lang="ts" setup>
-import formLogin from "./-components/form-login.vue";
+import formRegister from "../-components/form-register.vue";
 
 </script>
